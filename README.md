@@ -1,7 +1,7 @@
 # 보험사의 효율적인 운영을 위한 예측 모델 개발
-데이터 청년 캠퍼스 프로젝트 1조
+기계학습과응용 (MAT3123) Final Project
 
-개발기간 : 2021/08/02 ~ 2021/08/27
+개발기간 : 2025/12/01 ~ 2025/12/18
 
 Notion Link : https://nervous-stranger-60b.notion.site/Insurance-Fraud-Prediction-9a9d4408c8c64753afa16497aec26d60
 

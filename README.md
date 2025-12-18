@@ -76,7 +76,7 @@ CHME_LICE_COUNT : 담당의사 면허 건수
 다중회귀분석 결과
 ------------------------------------
 
-<img width="1888" height="2240" alt="Image" src="https://github.com/user-attachments/assets/47862989-aa8b-4237-89ea-b41f08677a28" />
+<img width="1888" height="2240" alt="Image" src="https://github.com/user-attachments/assets/d215f0cf-d1ea-4eb1-b038-5d8675bd4843" />
 
 다중회귀분석 결과를 보면, MINCRDT, CAUS_CODE, CLAIM_CNT, TOTAL_VLID_HOSP_OTDA, HOSP_VARIES, HOSP_DVSN_VARIES, CHME_LICE_COUNT 등이 유효한 컬럼임을 확인할 수 있다.
 

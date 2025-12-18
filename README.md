@@ -1,10 +1,8 @@
-연세대학교 수학과 2023131050 심승환
-# 보험사의 효율적인 운영을 위한 예측 모델 개발
-기계학습과응용 (MAT3123) Final Project
+# 보험사의 효율적인 운영을 위한 예측 모델 개발 
+# 연세대학교 수학과 2023131050 심승환
+# 기계학습과응용 (MAT3123) Final Project
 
 개발기간 : 2025/12/01 ~ 2025/12/18
-
-Notion Link : https://nervous-stranger-60b.notion.site/Insurance-Fraud-Prediction-9a9d4408c8c64753afa16497aec26d60
 
 ## 보험 사기 현황 & 프로젝트 목적
 금융감독원 자료에 따르면 2015년도 이후 보험사기 건수는 꾸준히 증가하였다. 
